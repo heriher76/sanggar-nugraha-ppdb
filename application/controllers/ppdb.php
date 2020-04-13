@@ -139,7 +139,7 @@ class Ppdb extends CI_Controller
 	{
 		// $logged_in = $this->session->userdata('logged_in');
 		// $level = $this->session->userdata('level');
-		
+
 		// if (!empty($logged_in) && $level == 'peserta')
 		// {
 			$config['upload_path'] = './uploads/kk/';
